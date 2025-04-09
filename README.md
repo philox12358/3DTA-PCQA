@@ -1,5 +1,6 @@
 # 3DTA-PCQA
-Open source code of the paper:  3DTA: No-Reference 3D Point Cloud Quality Assessment with Twin Attention
+Paper: [3DTA: No-Reference 3D Point Cloud Quality Assessment with Twin Attention](https://ieeexplore.ieee.org/abstract/document/10542438)
+
 <img src="https://github.com/philox12358/3DTA-PCQA/blob/main/images/3DTA.png">
 
 # Performance on WPC Datasets
@@ -77,4 +78,14 @@ Run the code one by one to obtain the experimental results:
 
 3.main.py
 
-
+## Bibtex
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```bibtex
+@article{zhu20243dta,
+  title={3DTA: No-reference 3D point cloud quality assessment with twin attention},
+  author={Zhu, Linxia and Cheng, Jun and Wang, Xu and Su, Honglei and Yang, Huan and Yuan, Hui and Korhonen, Jari},
+  journal={IEEE Transactions on Multimedia},
+  year={2024},
+  publisher={IEEE}
+}
+```
