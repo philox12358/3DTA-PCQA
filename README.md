@@ -3,10 +3,15 @@ Paper: [3DTA: No-Reference 3D Point Cloud Quality Assessment with Twin Attention
 
 Journal: IEEE Transactions on Multimedia
 
-<img src="https://github.com/philox12358/3DTA-PCQA/blob/main/images/3DTA.png">
+<div align="center">
+  <img src="./images/3DTA.png" alt="Logo" width="900">
+</div>
 
 # Performance on WPC Datasets
-<img src="https://github.com/philox12358/3DTA-PCQA/blob/main/images/results.png">
+
+<div align="center">
+  <img src="./images/results_WPC.png" alt="Logo" width="450">
+</div>
 
 # Running experiment
 1. Download Code
