@@ -24,7 +24,7 @@ Journal: IEEE Transactions on Multimedia
 ———————— 🐍 1.3main.py
 ———————— 🐍 data_load.py
 ———————— 🐍 model_3DTA.py
-———————— 🐍rename_error_file.py
+———————— 🐍 rename_error_file.py
 ———————— 🐍 util.py
 ———— 📁 data
 ———————————— 🔢 mos.xls
