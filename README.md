@@ -17,33 +17,22 @@ Journal: IEEE Transactions on Multimedia
 ### 1. Download Code
    Download this github repository to your computer, with the following folder structure:
 
+```sh
 ———— 📁 code
-
 ———————— 🐍 1.1pc_to_patch.py
-
 ———————— 🐍 1.2patch_list_create.py
-
 ———————— 🐍 1.3main.py
-
 ———————— 🐍 data_load.py
-
 ———————— 🐍 model_3DTA.py
-
 ———————— 🐍rename_error_file.py
-
 ———————— 🐍 util.py
-
 ———— 📁 data
-
 ———————————— 🔢 mos.xls
-
 ———————————— 🔢 test.xls
-
 ———————————— 🔢 train.xls
-
 ———— 📁 images
-
 ———— 📰 README.md
+```
 
 ### 2. Data Preparation
    Download the WPC datasets from <https://github.com/qdushl/Waterloo-Point-Cloud-Database>, and copy all the distorted 740 ply files into ./data/WPC/Distortion_ply folder. All files are in the same folder.
